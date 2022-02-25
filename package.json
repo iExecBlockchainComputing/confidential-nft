@@ -1,7 +1,7 @@
 {
   "name": "@nftbuilder/react-app",
   "version": "1.0.0",
-  "homepage": "https://seddikbellamine.github.io/confidential-nft-poc",
+  "homepage": "https://iExecBlockchainComputing.github.io/confidential-nft",
   "browserslist": {
     "production": [
       "last 1 chrome version",
