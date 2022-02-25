@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/confidential-nft/precache-manifest.7cfead8fe7b31b2facb701ff8b7cc769.js"
+  "/confidential-nft/precache-manifest.dcf4364e817405cb3673635a2f014457.js"
 );
 
 self.addEventListener('message', (event) => {
