@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/confidential-nft/static/css/main.cf42dbf6.chunk.css",
-    "main.js": "/confidential-nft/static/js/main.7317a393.chunk.js",
-    "main.js.map": "/confidential-nft/static/js/main.7317a393.chunk.js.map",
+    "main.js": "/confidential-nft/static/js/main.4222ce45.chunk.js",
+    "main.js.map": "/confidential-nft/static/js/main.4222ce45.chunk.js.map",
     "runtime-main.js": "/confidential-nft/static/js/runtime-main.b7f9df07.js",
     "runtime-main.js.map": "/confidential-nft/static/js/runtime-main.b7f9df07.js.map",
     "static/css/2.25dbda51.chunk.css": "/confidential-nft/static/css/2.25dbda51.chunk.css",
     "static/js/2.b3592dc3.chunk.js": "/confidential-nft/static/js/2.b3592dc3.chunk.js",
     "static/js/2.b3592dc3.chunk.js.map": "/confidential-nft/static/js/2.b3592dc3.chunk.js.map",
     "index.html": "/confidential-nft/index.html",
-    "precache-manifest.dcf4364e817405cb3673635a2f014457.js": "/confidential-nft/precache-manifest.dcf4364e817405cb3673635a2f014457.js",
+    "precache-manifest.eb24d7712b15c8a120664986c66238d4.js": "/confidential-nft/precache-manifest.eb24d7712b15c8a120664986c66238d4.js",
     "service-worker.js": "/confidential-nft/service-worker.js",
     "static/css/2.25dbda51.chunk.css.map": "/confidential-nft/static/css/2.25dbda51.chunk.css.map",
     "static/css/main.cf42dbf6.chunk.css.map": "/confidential-nft/static/css/main.cf42dbf6.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.25dbda51.chunk.css",
     "static/js/2.b3592dc3.chunk.js",
     "static/css/main.cf42dbf6.chunk.css",
-    "static/js/main.7317a393.chunk.js"
+    "static/js/main.4222ce45.chunk.js"
   ]
 }
